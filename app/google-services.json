@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625687255227",
+    "project_id": "healthminderoficiall",
+    "storage_bucket": "healthminderoficiall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625687255227:android:99ff0d496dae57af1f319e",
+        "android_client_info": {
+          "package_name": "com.example.healthminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625687255227-882ntp0mk5d177f4759i9fp1ofcvlrpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfD6zpJ7YS_Zk6YxRV308GptIUAOmPMmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625687255227-882ntp0mk5d177f4759i9fp1ofcvlrpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
